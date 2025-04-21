@@ -7,8 +7,8 @@ Este es el sitio GitHub del curso **Seguridad en el Desarrollo de Aplicaciones**
 
 ## Semana 1
 
-- ![Slides semana 1]()
-- bbbb
+- ![Slides semana 1](01_pres.pdf)
+- ![Slides semana 1 en Español](01_pres_es.pdf)
 
 
 # Material Asíncrono
