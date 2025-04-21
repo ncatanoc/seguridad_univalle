@@ -15,5 +15,7 @@ Este es el sitio GitHub del curso **Seguridad en el Desarrollo de Aplicaciones**
 
 ## Semana 0
 
-- aaa
-- bbbb
+### Taller 0 (no calificable, obligatorio)
+- !Taller 0 (parte A, teórico)[Act_02_seguridad_taller_00.pdf]
+- !Taller 0 (parte B, práctico en C)[Act_02_seguridad_taller_00b.pdf]
+- !Taller 0 (parte B, práctico en C, código fuente)[taller_00_src.zip]
