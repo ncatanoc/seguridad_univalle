@@ -1,3 +1,19 @@
-# Curso Seguridad en el Desarrolo de Applicaciones
+# Curso Seguridad en el Desarrollo de Aplicaciones
 
-Este es el sitio GitHub del curso **Seguridad en el Desarrolo de Applicaciones** de la Maestría [CODING](https://sites.google.com/view/nestorcatano/home) de La Universidad del Valle, año 2025. Aquí estaremos dejando los enlances con el material del curso: $(i.)$ slides, $(ii.)$ material de los talleres incluyendo artículos, enlaces de vídeos, y $(iii.)$ material o vídeo asíncrono para estudio independiente.
+Este es el sitio GitHub del curso **Seguridad en el Desarrollo de Aplicaciones** de la Maestría [CODING](https://eisc.univalle.edu.co/index.php/programas-academicos/maestria-en-computacion-para-el-desarrollo-de-aplicaciones-inteligentes) de La Universidad del Valle, año 2025. Aquí estaremos dejando los enlaces con el material del curso: $(i.)$ slides, $(ii.)$ material de los talleres incluyendo artículos, enlaces de vídeos, y $(iii.)$ material o vídeo asíncrono para estudio independiente.
+
+
+# Material Síncrono
+
+## Semana 1
+
+- ![Slides semana 1]()
+- bbbb
+
+
+# Material Asíncrono
+
+## Semana 0
+
+- aaa
+- bbbb
