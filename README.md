@@ -24,3 +24,11 @@ Este es el sitio GitHub del curso **Seguridad en el Desarrollo de Aplicaciones**
 # Material Adicional
 
 - ![Libro de Programación en C](book_C_kernighan_ritchie.pdf)
+
+
+# Videos 
+## clase 1
+- ![parte 1](clase01_parte01_mp4)
+- ![parte 2](clase01_parte02_mp4)
+- ![parte 3](clase01_parte03_mp4)
+- ![parte 4](clase01_parte04_mp4)
