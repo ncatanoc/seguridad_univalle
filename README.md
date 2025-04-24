@@ -16,19 +16,11 @@ Este es el sitio GitHub del curso **Seguridad en el Desarrollo de Aplicaciones**
 ## Semana 0
 
 ### Taller 0 (no calificable, obligatorio)
-- ![Taller 0, parte A, teórico](Act_02_seguridad_taller_00.pdf)
-- ![Taller 0, parte B, práctico en C](Act_02_seguridad_taller_00b.pdf)
-- ![Taller 0, parte B, práctico en C, código fuente](taller_00_src.zip)
+- [Taller 0, parte A, teórico](Act_02_seguridad_taller_00.pdf)
+- [Taller 0, parte B, práctico en C](Act_02_seguridad_taller_00b.pdf)
+- [Taller 0, parte B, práctico en C, código fuente](taller_00_src.zip)
 
 
 # Material Adicional
 
-- ![Libro de Programación en C](book_C_kernighan_ritchie.pdf)
-
-
-# Videos 
-## clase 1
-- ![parte 1](clase01_parte01_mp4)
-- ![parte 2](clase01_parte02_mp4)
-- ![parte 3](clase01_parte03_mp4)
-- ![parte 4](clase01_parte04_mp4)
+- [Libro de Programación en C](book_C_kernighan_ritchie.pdf)
