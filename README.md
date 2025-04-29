@@ -9,6 +9,11 @@ Este es el sitio GitHub del curso **Seguridad en el Desarrollo de Aplicaciones**
 
 - [Slides semana 1](01_pres.pdf)
 - [Slides semana 1 en Español](01_pres_es.pdf)
+  
+## Semana 2
+
+- [Slides semana 2 - CVE](02_cve.pdf)
+- [Slides semana 2 - Input Validation](02_pres.pdf)
 
 
 # Material Asíncrono
