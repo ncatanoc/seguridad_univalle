@@ -20,7 +20,7 @@ Este es el sitio GitHub del curso **Seguridad en el Desarrollo de Aplicaciones**
 
 
 ## Semana 4
-- [Slides semana 4 - Secure Software Design](04_pres.pdf)
+- [Slides semana 4 - Secure Software Design](04_design.pdf)
 
 ## Semana 5
 - [Slides semana 5 - Information Flow](05_pres.pdf)
