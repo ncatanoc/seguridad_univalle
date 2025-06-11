@@ -45,3 +45,4 @@ Este es el sitio GitHub del curso **Seguridad en el Desarrollo de Aplicaciones**
 # Material Adicional
 
 - [Libro de Programación en C](book_C_kernighan_ritchie.pdf)
+- [Chaun-Pederson Protocol, Python Notebook](https://github.com/ncatanoc/seguridad_univalle/blob/main/chaum_pedersen_protocol.ipynb)
