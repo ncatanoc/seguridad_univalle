@@ -25,6 +25,12 @@ Este es el sitio GitHub del curso **Seguridad en el Desarrollo de Aplicaciones**
 ## Semana 5
 - [Slides semana 5 - Information Flow](05_flow.pdf)
 
+## Semana 7
+- [Slides semana 7 - Buffer Overflow](07_buffer.pdf)
+
+## Semana 8
+- [Slides semana 8 - Static Analyzers](08_static.pdf)
+
 
 # Material Asíncrono
 
